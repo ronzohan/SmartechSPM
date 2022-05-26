@@ -1,3 +1,3 @@
 # SmartechSPM
 
-A description of this package.
+SPM implementation for Smartech iOS SDK
